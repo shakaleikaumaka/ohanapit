@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ohanapit.com/sitemap.xml
